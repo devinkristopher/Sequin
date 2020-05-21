@@ -1,6 +1,8 @@
 # Sequin
 
-Sequin is a platform for MIDI Java Development that I plan on expanding upon.  Currently, the software design is likely a conglomeration-style which is not optimal.  I developed this program 6 months ago or so for a CREATE Symposium for GGC about Java game development (categorizing it akin to Guitar Hero, Synthesia, or Rock Band).  Currently, it is in a very minimal state.  It took me a while to figure out the EventListener configuration, so I figured I would make it open-source for the world to use as a reference.  Feel free to use it for informational purposes, personal use, or any other use you may find.  I just ask that you let me know what it is up to so around the world that I may have a sense of pride from it!
+Sequin is a platform for MIDI Java Development that I plan on expanding upon.  Currently, the software design is likely a conglomeration-style, which is not optimal.  I developed this program 6 months ago or so for a CREATE Symposium for GGC about Java game development (categorizing it akin to Guitar Hero, Synthesia, or Rock Band).  Currently, it is in a very minimal state.  It took me a while to figure out the EventListener configuration, so I figured I would make it open-source for the world to use as a reference.  Feel free to use it for informational purposes, personal use, or any other use you may find.  I just ask that you let me know what it is up to so around the world that I may have a sense of pride from it!
+
+If you're wondering, the Javatron name is inspired by the Mellotron synthesizer brand.
 
 # Short Instructions
 
