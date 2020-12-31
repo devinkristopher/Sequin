@@ -8,11 +8,15 @@ It took me a while to figure out the EventListener configuration, so I figured I
 
 If you're wondering, the Javatron name is inspired by the Mellotron synthesizer brand.  Sequin is derived from the MIDI term sequencer.
 
-# Short Instructions
+# Quickstart
 
-Run the Javatron.java file!
+1. Download the project and run Javatron.java.
 
-# Long Instructions (Eclipse Build Path)
+![A fresh Javatron](docs/img0.png)
+
+
+
+# Developing in Eclipse: Build Path Configuration
 
 This program has been tested and ran on macOS Catalina 10.15.3 (MacBook Pro 2019 w/ TouchBar) using Eclipse IDE 2019-06 (4.12.0).
 
