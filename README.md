@@ -10,13 +10,15 @@ If you're wondering, the Javatron name is inspired by the Mellotron synthesizer 
 
 # Quickstart
 
-1. Download the project and run Javatron.java.
+1. Download the project and run Javatron.java. Notice the keyboard appears in a new window. Behold; it is the Javatron!
 ![A wild Javatron appears!](docs/img0.png)
-2. Notice the keyboard appears in a new window. Note that you may resize the window to a bigger size for a more immersive experience.
+2. Note that you may resize the window to a bigger size for a more immersive experience.
 ![When resizing the window, the keyboard remains the same size.](docs/img1.png)
-3. Press and hold the shift key.
+3. With your device volume at an appropriate level, press and hold the Q, E, and T keys simultaneously. You will hear and see the Javatron play a C Major chord!
+![The Javatron plays a C Major chord!](docs/img3.png)
+4. Press and hold the shift key. An extra octave will be visible while the shift key is pressed.
 ![Javatron shows an extra octave when the shift key is pressed.](docs/img2.png)
-
+ 
 # Developing in Eclipse: Build Path Configuration
 
 This program has been tested and ran on macOS Catalina 10.15.3 (MacBook Pro 2019 w/ TouchBar) using Eclipse IDE 2019-06 (4.12.0).
