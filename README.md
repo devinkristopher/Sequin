@@ -29,6 +29,7 @@ If you're wondering, the Javatron name is inspired by the Mellotron synthesizer 
 # A: Y
 # A#/Bb: 7
 # B: U
+4. Note below that you can have fun with the keys.
 ![Having fun with the keys.](docs/img4.png)
 5. Press and hold the shift key. An extra octave will be visible while the shift key is pressed.
 ![Javatron shows an extra octave when the shift key is pressed.](docs/img2.png)
