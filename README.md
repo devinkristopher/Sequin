@@ -10,12 +10,10 @@ If you're wondering, the Javatron name is inspired by the Mellotron synthesizer 
 
 # Quickstart
 
-1. Download the project. Next, run Javatron.java.
-
+1. Download the project and run Javatron.java.
 ![A wild Javatron appears!](docs/img0.png)
 
-2. Notice the Keyboard appears in a new window. Let's make the window bigger.
-
+2. Notice the keyboard appears in a new window. Let's resize the window to our liking.
 ![When resizing the window, the keyboard remains the same size.](docs/img1.png)
 
 # Developing in Eclipse: Build Path Configuration
