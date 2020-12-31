@@ -29,6 +29,11 @@ G#/Ab: 6
 A: Y
 A#/Bb: 7
 B: U
+| Key      | Note |
+| ----------- | ----------- |
+| Q      | C       |
+| Paragraph   | Text        |
+
 ![Having fun with the keys.](docs/img4.png)
 5. Press and hold the shift key. An extra octave will be visible while the shift key is pressed.
 ![Javatron shows an extra octave when the shift key is pressed.](docs/img2.png)
