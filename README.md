@@ -17,7 +17,7 @@ If you're wondering, the Javatron name is inspired by the Mellotron synthesizer 
 3. With your device volume at an appropriate level, press and hold the Q, E, and T keys simultaneously. You will hear and see the Javatron play a C Major chord! Releasing the keys will stop drawing and playing the notes. Note the break in the image below caused by a quick release and repress of the keys.
 ![The Javatron plays a C Major chord!](docs/img3.png)
 4. Have some fun with the keys. Here is the keymap:
-C: Q
+<br>C: Q<br>
 C#/Db: 2
 D:W
 D#/Eb: 3
@@ -32,7 +32,11 @@ B: U
 ![Having fun with the keys.](docs/img4.png)
 5. Press and hold the shift key. An extra octave will be visible while the shift key is pressed.
 ![Javatron shows an extra octave when the shift key is pressed.](docs/img2.png)
- 
+6. In the image below, note that pressing a musical key while holding down the shift key will play that note an octave higher.
+![Javatron playing C5 on the keyboard.](docs/img6.png)
+7. In the image below, observe the ability to quickly and fluently shift octaves while playing scales.
+![Javatron playing scales!](docs/img7.png)
+
 # Developing in Eclipse: Build Path Configuration
 
 This program has been tested and ran on macOS Catalina 10.15.3 (MacBook Pro 2019 w/ TouchBar) using Eclipse IDE 2019-06 (4.12.0).
