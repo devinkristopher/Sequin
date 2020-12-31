@@ -12,9 +12,10 @@ If you're wondering, the Javatron name is inspired by the Mellotron synthesizer 
 
 1. Download the project and run Javatron.java.
 ![A wild Javatron appears!](docs/img0.png)
-
-2. Notice the keyboard appears in a new window. Let's resize the window to our liking.
+2. Notice the keyboard appears in a new window. Note that you may resize the window to a bigger size for a more immersive experience.
 ![When resizing the window, the keyboard remains the same size.](docs/img1.png)
+3. Press and hold the shift key.
+![Javatron shows an extra octave when the shift key is pressed.](docs/img2.png)
 
 # Developing in Eclipse: Build Path Configuration
 
