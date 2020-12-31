@@ -14,9 +14,23 @@ If you're wondering, the Javatron name is inspired by the Mellotron synthesizer 
 ![A wild Javatron appears!](docs/img0.png)
 2. Note that you may resize the window to a bigger size for a more immersive experience.
 ![When resizing the window, the keyboard remains the same size.](docs/img1.png)
-3. With your device volume at an appropriate level, press and hold the Q, E, and T keys simultaneously. You will hear and see the Javatron play a C Major chord!
+3. With your device volume at an appropriate level, press and hold the Q, E, and T keys simultaneously. You will hear and see the Javatron play a C Major chord! Releasing the keys will stop drawing and playing the notes. Note the break in the image below caused by a quick release and repress of the keys.
 ![The Javatron plays a C Major chord!](docs/img3.png)
-4. Press and hold the shift key. An extra octave will be visible while the shift key is pressed.
+4. Have some fun with the keys. Here is the keymap:
+C: Q
+C#/Db: 2
+D:W
+D#/Eb: 3
+E: E
+F: R
+F#/Gb: 5
+G: T
+G#/Ab: 6
+A: Y
+A#/Bb: 7
+B: U
+![Having fun with the keys.](docs/img4.png)
+5. Press and hold the shift key. An extra octave will be visible while the shift key is pressed.
 ![Javatron shows an extra octave when the shift key is pressed.](docs/img2.png)
  
 # Developing in Eclipse: Build Path Configuration
